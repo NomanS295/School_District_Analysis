@@ -1,7 +1,7 @@
 
 # School District Analysis
 
-In this project we are performing an analysis using school and student data to inform a school district on their budget and priorities.
+In this project we are performing an analysis using school and student data.
 
 
 ## Main Objectives
